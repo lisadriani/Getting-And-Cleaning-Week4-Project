@@ -7,6 +7,8 @@ This repo has directions on how it cleans and tidies the data for the Human Acti
 
 The original data can be found : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+The tidy data has been found through the mean and standard deviation of the data. 
+
 Codebook.md describes the steps taken to tidy the data for a follow along instruction. 
 Run_analysis.R is the exact code used on the dataset above. It follows the five steps as directed by the course requirement 
   Merges the training and the test sets to create one data set.
